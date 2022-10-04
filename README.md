@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JiongLiu
 - 👀 I’m interested in the application of Data Science in econophysics
-- 🌱 I’m currently learning econophysics
+- 🌱 I’m currently learning complex system
 - 💞️ I’m looking to collaborate on data science, economy and physics.
 - 📫 How to reach me? My email address liu3j7@mail.uc.edu
 
